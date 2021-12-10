@@ -17,7 +17,7 @@
 												<div class="d-flex flex-column">
 													<!--begin::Status-->
 													<div class="d-flex align-items-center mb-1">
-														<a href="#" class="text-gray-800 text-hover-primary fs-2 fw-bolder me-3">Instagram Analytics</a>
+														<a href="#" class="text-gray-800 text-hover-primary fs-2 fw-bolder me-3">Facebook Analytics</a>
 														<span class="badge badge-light-success me-auto">In Progress</span>
 													</div>
 													<!--end::Status-->
@@ -61,7 +61,7 @@
 														</div>
 														<!--end::Number-->
 														<!--begin::Label-->
-														<div class="fw-bold fs-6 text-gray-400">Following</div>
+														<div class="fw-bold fs-6 text-gray-400">Page Following</div>
 														<!--end::Label-->
 													</div>
 													<!--end::Stat-->
@@ -81,7 +81,7 @@
 														</div>
 														<!--end::Number-->
 														<!--begin::Label-->
-														<div class="fw-bold fs-6 text-gray-400">Followers</div>
+														<div class="fw-bold fs-6 text-gray-400">Page Likes</div>
 														<!--end::Label-->
 													</div>
 													<!--end::Stat-->
@@ -191,7 +191,7 @@
 										<!--begin::Header-->
 										<div class="card-header border-0 pt-5">
 											<h3 class="card-title align-items-start flex-column">
-												<span class="card-label fw-bolder fs-3 mb-1">Instagram Followers</span>
+												<span class="card-label fw-bolder fs-3 mb-1">Facebook Followers</span>
 												<span class="text-muted fw-bold fs-7">December</span>
 											</h3>
 											
@@ -213,7 +213,7 @@
 										<!--begin::Header-->
 										<div class="card-header border-0 pt-5">
 											<h3 class="card-title align-items-start flex-column">
-												<span class="card-label fw-bolder fs-3 mb-1">Instagram Likes</span>
+												<span class="card-label fw-bolder fs-3 mb-1">Facebook Likes</span>
 												<span class="text-muted fw-bold fs-7">December</span>
 											</h3>
 											
@@ -252,7 +252,7 @@
 											<!--begin::Title-->
 											<h3 class="card-title align-items-start flex-column">
 												<span class="card-label fw-bolder fs-3 mb-1">Locations</span>
-												<span class="text-muted fw-bold fs-7">More than 400 new members</span>
+												<span class="text-muted fw-bold fs-7"></span>
 											</h3>
 											<!--end::Title-->
 											
@@ -276,7 +276,7 @@
 											<!--begin::Title-->
 											<h3 class="card-title align-items-start flex-column">
 												<span class="card-label fw-bolder fs-3 mb-1">Gender</span>
-												<span class="text-muted fw-bold fs-7">More than 400 new members</span>
+												<span class="text-muted fw-bold fs-7"></span>
 											</h3>
 											<!--end::Title-->
 											
@@ -306,7 +306,7 @@
 											<!--begin::Title-->
 											<h3 class="card-title align-items-start flex-column">
 												<span class="card-label fw-bolder fs-3 mb-1">Age Range</span>
-												<span class="text-muted fw-bold fs-7">More than 400 new members</span>
+												<span class="text-muted fw-bold fs-7"></span>
 											</h3>
 											<!--end::Title-->
 											
@@ -330,7 +330,7 @@
 											<!--begin::Title-->
 											<h3 class="card-title align-items-start flex-column">
 												<span class="card-label fw-bolder fs-3 mb-1">Visiting Times</span>
-												<span class="text-muted fw-bold fs-7">More than 400 new members</span>
+												<span class="text-muted fw-bold fs-7"></span>
 											</h3>
 											<!--end::Title-->
 											
@@ -373,7 +373,7 @@
 											<!--begin::Title-->
 											<h3 class="card-title align-items-start flex-column">
 												<span class="card-label fw-bolder fs-3 mb-1">Promotion Clicks</span>
-												<span class="text-muted fw-bold fs-7">More than 400 new members</span>
+												<span class="text-muted fw-bold fs-7"></span>
 											</h3>
 											<!--end::Title-->
 											
@@ -397,7 +397,7 @@
 											<!--begin::Title-->
 											<h3 class="card-title align-items-start flex-column">
 												<span class="card-label fw-bolder fs-3 mb-1">Profile Visits</span>
-												<span class="text-muted fw-bold fs-7">More than 400 new members</span>
+												<span class="text-muted fw-bold fs-7"></span>
 											</h3>
 											<!--end::Title-->
 											
@@ -427,7 +427,7 @@
 											<!--begin::Title-->
 											<h3 class="card-title align-items-start flex-column">
 												<span class="card-label fw-bolder fs-3 mb-1">Reach</span>
-												<span class="text-muted fw-bold fs-7">More than 400 new members</span>
+												<span class="text-muted fw-bold fs-7"></span>
 											</h3>
 											<!--end::Title-->
 											
@@ -451,7 +451,7 @@
 											<!--begin::Title-->
 											<h3 class="card-title align-items-start flex-column">
 												<span class="card-label fw-bolder fs-3 mb-1">Likes</span>
-												<span class="text-muted fw-bold fs-7">More than 400 new members</span>
+												<span class="text-muted fw-bold fs-7"></span>
 											</h3>
 											<!--end::Title-->
 											
