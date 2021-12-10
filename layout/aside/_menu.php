@@ -37,7 +37,7 @@
 
 									<div class="menu-sub menu-sub-dropdown w-225px px-1 py-4">
 									<div class="menu-item">
-											<a class="menu-link" href="?page=instagram">
+											<a class="menu-link" href="?page=Instagram">
 												<span class="menu-bullet">
 													<span class="bullet bullet-dot"></span>
 												</span>
@@ -45,7 +45,7 @@
 											</a>
 										</div>
 										<div class="menu-item">
-											<a class="menu-link" href="?page=facebook">
+											<a class="menu-link" href="?page=Facebook">
 												<span class="menu-bullet">
 													<span class="bullet bullet-dot"></span>
 												</span>
@@ -53,7 +53,7 @@
 											</a>
 										</div>
 										<div class="menu-item">
-											<a class="menu-link" href="?page=twitter">
+											<a class="menu-link" href="?page=Twitter">
 												<span class="menu-bullet">
 													<span class="bullet bullet-dot"></span>
 												</span>
@@ -62,7 +62,7 @@
 										</div>
 
 										<div class="menu-item">
-											<a class="menu-link" href="?page=linkedin">
+											<a class="menu-link" href="?page=Linkedin">
 												<span class="menu-bullet">
 													<span class="bullet bullet-dot"></span>
 												</span>
@@ -71,7 +71,7 @@
 										</div>
 
 										<div class="menu-item">
-											<a class="menu-link" href="?page=website">
+											<a class="menu-link" href="?page=Website">
 												<span class="menu-bullet">
 													<span class="bullet bullet-dot"></span>
 												</span>
@@ -105,7 +105,7 @@
 								
 								<!--Meetings Start-->
 								<div  class="menu-item py-3">
-									<a href="?page=meetings" class="menu-link" title="Meetings" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-dismiss="click" data-bs-placement="right">
+									<a href="?page=Meetings" class="menu-link" title="Meetings" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-dismiss="click" data-bs-placement="right">
 										<span class="menu-icon">
 											<!--begin::Svg Icon | path: icons/duotune/general/gen014.svg-->
 											<span class="svg-icon svg-icon-2x">
@@ -125,7 +125,7 @@
 
 								<!--Payments Start-->
 								<div  class="menu-item py-3">
-									<a href="?page=payments" class="menu-link" title="Payments" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-dismiss="click" data-bs-placement="right">
+									<a href="?page=Payments" class="menu-link" title="Payments" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-dismiss="click" data-bs-placement="right">
 										<span class="menu-icon">
 											<!--begin::Svg Icon | path: icons/duotune/general/gen002.svg-->
 											<span class="svg-icon svg-icon-2x">
