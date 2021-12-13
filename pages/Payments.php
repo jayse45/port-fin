@@ -1,6 +1,6 @@
 <!--begin::Seperator-->
 <div class=" my-11"></div>
-											<!--end::Seperator-->
+<!--end::Seperator-->
 
 <div class="content d-flex flex-column flex-column-fluid" id="kt_content">
 						<!--begin::Container-->
