@@ -21,9 +21,9 @@ License: For each use you must have a valid license purchased only from above li
 		<meta property="og:locale" content="en_US" />
 		<meta property="og:type" content="article" />
 		<meta property="og:title" content="Simpli Analytics" />
-		<meta property="og:url" content="https://keenthemes.com/metronic" />
-		<meta property="og:site_name" content="Keenthemes | Metronic" />
-		<link rel="canonical" href="https://preview.keenthemes.com/metronic8" />
+		<meta property="og:url" content="https://simpliexpand.com" />
+		<meta property="og:site_name" content="Simpli Analytics" />
+		<link rel="canonical" href="https://simpliexpand.com" />
 		<link rel="shortcut icon" href="assets/media/logos/logo1.jpg" />
 		<!--begin::Fonts-->
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" />
