@@ -956,7 +956,7 @@
 												<div class="d-flex align-items-center">
 													<!--begin::Avatar-->
 													<div class="symbol symbol-60px symbol-circle me-3">
-														<img alt="Pic" src="assets/media/avatars/150-4.jpg">
+														<img alt="Pic" src="assets/media/patterns/14.jpg">
 													</div>
 													<!--end::Avatar-->
 													<!--begin::Info-->
