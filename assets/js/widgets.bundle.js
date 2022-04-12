@@ -2095,7 +2095,7 @@ KTUtil.onDOMContentLoaded(function() {
 "use strict";
 
 // Class definition
-var KTChartsWidget6 = function () {
+var KTChartsWidget112 = function () {
     // Private methods
     var initChart = function() {
         var element = document.getElementById("kt_charts_widget_112"); 
@@ -2241,7 +2241,7 @@ if (typeof module !== 'undefined') {
 
 // On document ready
 KTUtil.onDOMContentLoaded(function() {
-    KTChartsWidget6.init();
+    KTChartsWidget112.init();
 });
 
  
