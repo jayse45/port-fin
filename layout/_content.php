@@ -238,7 +238,7 @@
 													<!--end::Avatar-->
 													<!--begin::Info-->
 													<div class="d-flex flex-column">
-														<a href="#" class="text-gray-900 text-hover-primary fs-6 fw-bolder">Simliexpand</a>
+														<a href="#" class="text-gray-900 text-hover-primary fs-6 fw-bolder">Swift Homes</a>
 														<span class="text-gray-400 fw-bold">Week 3 Post</span>
 													</div>
 													<!--end::Info-->

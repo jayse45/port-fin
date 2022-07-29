@@ -1,7 +1,7 @@
 <?php
 
 if($_GET) {
-	$title = isset($_GET['page']) ? ' ' . $_GET['page'] : 'Simpli Connect';
+	$title = isset($_GET['page']) ? ' ' . $_GET['page'] : 'Campaign Essentials';
 } else {
 	$title = 'Simpli Connect';
 }
