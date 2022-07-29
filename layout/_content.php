@@ -233,7 +233,7 @@
 												<div class="d-flex align-items-center flex-grow-1">
 													<!--begin::Avatar-->
 													<div class="symbol symbol-45px me-5">
-														<img src="assets/media/logos/logo3x3.png" alt="" />
+														<img src="assets/media/logos/swift.jpg" alt="" />
 													</div>
 													<!--end::Avatar-->
 													<!--begin::Info-->
@@ -252,17 +252,23 @@
 												<!--begin::Image and Text-->
 												<div class="row">
 													<div class="col-sm">
-													<div  class=" rounded min-h-150px mb-5" style="background-image:url('assets/media/stock/900x600/20.jpg'); margin: 1rem;"></div>
+													<div  class=" rounded min-h-150px mb-5" >
+														<img class=" rounded min-h-150px mb-5" style="width: 100%; margin: 1rem;" src="assets/media/logos/hii_07.jpg" alt="">
+													</div>
 													
 													</div>
 
 													<div class="col-sm">
-													<div  class=" rounded min-h-150px mb-5" style="background-image:url('assets/media/stock/900x600/20.jpg'); margin: 1rem;"></div>
+													<div  class=" rounded min-h-150px mb-5" >
+														<img class=" rounded min-h-150px mb-5" style="width: 100%; margin: 1rem;" src="assets/media/logos/hii_05.png" alt="">
+													</div>
 													
 													</div>
 
 													<div class="col-sm">
-													<div  class=" rounded min-h-150px mb-5" style="background-image:url('assets/media/stock/900x600/20.jpg'); margin: 1rem;"></div>
+													<div  class=" rounded min-h-150px mb-5">
+														<img class=" rounded min-h-150px mb-5" style="width: 100%; margin: 1rem;" src="assets/media/logos/hii_02.png" alt="">
+													</div>
 													
 													</div>
 
@@ -274,7 +280,7 @@
 												<div class="d-flex align-items-center mb-5">
 													
 													<!--begin::See More button-->
-													<a href="#" class="btn btn-primary" data-bs-target="#kt_modal_create_app" data-bs-toggle="modal">See More...</a>
+													<a href="?page=Design" class="btn btn-primary" >See More...</a>
 													<!--end::See More button-->
 													
 								

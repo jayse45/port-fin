@@ -4,7 +4,7 @@
 					<!--begin::Logo-->
 					<div class="aside-logo flex-column-auto pt-10 pt-lg-20" id="kt_aside_logo">
 						<a href="index.php">
-							<img alt="Logo" src="assets/media/logos/logo3x3.png" class="h-70px" />
+							<img alt="Logo" src="assets/media/logos/swift.jpg" class="h-70px" />
 						</a>
 					</div>
 					<!--end::Logo-->
