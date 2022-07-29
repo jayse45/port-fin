@@ -3,7 +3,7 @@
 if($_GET) {
 	$title = isset($_GET['page']) ? ' ' . $_GET['page'] : 'Campaign Essentials';
 } else {
-	$title = 'Simpli Connect';
+	$title = 'Campaign Essentials';
 }
 
 ?>
